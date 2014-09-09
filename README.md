@@ -1,4 +1,4 @@
 Python
 ======
 
-my first github
+Python github
